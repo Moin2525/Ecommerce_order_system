@@ -27,7 +27,7 @@ A complete Laravel-based E-commerce Order Management System with RESTful APIs, a
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   gh repo clone Moin2525/Ecommerce_order_system
    cd ecommerce-order-system
 Install dependencies
 
